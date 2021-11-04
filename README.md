@@ -1,4 +1,11 @@
-# planters-community
+# Planters-Community-System
+This System is planned to be developed through free and open-source methods.
+
+There are some limitaions that can be listed as following:
+
+1.The System will be implemented by high-level Language like JAVA, JAVASCRIPT and
+2. The System will be accessed by the government (Ministry of Municipalities Affairs & Urban Planning) and (Ministry of agriculture) to create supervised forestation events
+
 The application is intended to support the national initiative for agricultural development in Bahrain
 by increasing the awareness of the agricultural sector among the citizens.
 t will provide a digital platform that offers accurate academic information to guide the users in
