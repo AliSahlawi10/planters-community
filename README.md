@@ -15,3 +15,11 @@ for the purpose of helping them to use the modern agricultural methods and enhan
 As a result, it will unify the efforts to empower micro projects and enlarge the green spaces in the Kingdom of Bahrain.
 As a team of software engineers, it will allow us to explore a new domain not particularly common in Bahrain which will help us enhance both our problem-solving skills
 and teamwork skills.
+
+
+**License**
+This System is developed under the GNU General Public License  v+3 license. For more details about GNU General Public License see LICENSE file in this repositry.
+
+**Communication Channel**
+You can communicate with the team contributors through this google group, your questions and contributions are most welcomed!!planters-community-system@googlegroups.com
+
