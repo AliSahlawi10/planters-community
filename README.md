@@ -17,9 +17,9 @@ As a team of software engineers, it will allow us to explore a new domain not pa
 and teamwork skills.
 
 
-#License
+<h1>License</h1>
 This System is developed under the GNU General Public License  v+3 license. For more details about GNU General Public License see LICENSE file in this repositry.
 
-#Communication Channel
+<h1>Communication Channel</h1>
 You can communicate with the team contributors through this google group, your questions and contributions are most welcomed!!planters-community-system@googlegroups.com
 
