@@ -19,6 +19,7 @@ and teamwork skills.
 
 <h1>License</h1>
 This System is developed under the GNU General Public License  v+3 license. For more details about GNU General Public License see LICENSE file in this repositry.
+https://github.com/AliSahlawi10/planters-community/blob/main/LICENSE
 
 <h1>Communication Channel</h1>
 You can communicate with the team contributors through this google group, your questions and contributions are most welcomed!!planters-community-system@googlegroups.com
