@@ -10,6 +10,7 @@ public class PlantersCommunity {
         userManager.registerUser("Jalal","5678");
         userManager.registerUser("Jenan","0000");
         userManager.registerUser("Rajaa","0123");
+        userManager.registerUser("Ali","15975");
         plantManager.addPlant("Lilies","Flowers","So much each day", "10 minutes medium rare","good soil");
         plantManager.addPlant("sunflower","Flowers","a lot each day", "it's literally called sunflowers.","medium soil");
         plantManager.addPlant("carrot","vegetables","not much", "keep it away.","sweet soil");
